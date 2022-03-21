@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер Валют</string>
+    <string name="value_str">Курс</string>
+    <string name="symbol">Символ</string>
+    <string name="currency">Валюта</string>
+    <string name="number">#</string>
+    <string name="convert">конвертировать</string>
+    <string name="_1">1</string>
+</resources>

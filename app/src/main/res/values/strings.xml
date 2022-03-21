@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="value_str">Value</string>
+    <string name="symbol">Symbol</string>
+    <string name="currency">Currency</string>
+    <string name="number">#</string>
+    <string name="convert">convert</string>
+    <string name="_1">1</string>
+</resources>
